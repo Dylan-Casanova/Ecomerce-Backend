@@ -3,11 +3,10 @@
 Ecomerce-BackEnd is an application that allows a client/user to update,view and add information/data to a database. 
 additional applications used were Insomnia and MySQL. <br>
 <br>
-<p align ='center'>
 
 ![initialPage](./assets/numer1.png)
 ![inmsonia](./assets/number2.png) 
-</p>
+
 
 <br>
 
@@ -18,6 +17,9 @@ additional applications used were Insomnia and MySQL. <br>
 <li>rename .env.example file and add your credentials (database name,user name, and password)</li>
 <li>open package.json on integrated terminal and "npm run seed" </li>
 <li>on integrated terminal run "npm start" to start the application.</li>
+
+## Demo
+https://youtu.be/A_wUsUgEyFA   <------ Demo video link
 
 ## Contact information 
 
