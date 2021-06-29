@@ -1,5 +1,5 @@
 const { Tag } = require('../models');
-
+// creating data
 const tagData = [
   {
     tag_name: 'rock music',

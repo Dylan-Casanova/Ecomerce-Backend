@@ -1,5 +1,5 @@
 require('dotenv').config();
-
+// creating connection to db
 const Sequelize = require('sequelize');
 
 const sequelize = process.env.JAWSDB_URL
