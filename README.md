@@ -1,7 +1,7 @@
 # Unit13-Ecomerce-Backend
 # Description
 Ecomerce-BackEnd is an application that allows a client/user to update,view and add information/data to a database. additional applications used were Insomnia and MySQL. <br>
-<a href="https://youtu.be/A_wUsUgEyFA"> Deployed app </a> <----- Click here video demo
+<a href="https://youtu.be/A_wUsUgEyFA"> Deployed app </a> <----- Click here for video demo
 <br>
 
 ![initialPage](./assets/numer1.png)
